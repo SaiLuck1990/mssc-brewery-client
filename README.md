@@ -6,4 +6,4 @@ The project consists of the below microservices
  2. mssc-beer-service 
  3. mssc-brewery-client 
  
-This is a microservice for mssc-brewery-client and it is the consumer of mssc-brewery
+This is a microservice for mssc-brewery-client and it is the consumer of mssc-brewery . It uses
