@@ -10,6 +10,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.net.URI;
 import java.util.UUID;
 
+/**
+ * This is an integration test and it requires /api/v1/beer
+ * to be available in port 8080
+ *
+ */
 @SpringBootTest
 public class BreweryClientTest {
 
